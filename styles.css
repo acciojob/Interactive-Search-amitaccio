@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+.search{
+	width: 100vw;
+	height: 100vh;
+	background-color: #785CF4;
+	display: flex;
+	align-items:center;
+}
+.active{
+	width: 100vw;
+	height: 100vh;
+	background-color: #785CF4;
+	display: flex;
+	align-items:center;
+	padding: 40px;
+	text: 50px;
+}
